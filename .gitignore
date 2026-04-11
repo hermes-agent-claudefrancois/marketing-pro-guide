@@ -1,0 +1,10 @@
+node/
+bin/
+*.log
+sessions/
+cron/output/
+image_cache/
+.git/
+__pycache__/
+*.pyc
+.env
