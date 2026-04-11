@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hermes-agent-claudefrancois.github.io/marketing-pro-guide/sitemap.xml
